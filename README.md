@@ -1,5 +1,5 @@
 <!-- 🌊 NAVY BLUE HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=70&width=100%&section=header" style="width:100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=100&width=100%&section=header" style="width:100%;" />
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0A2540;">Bhavana Venkatesha Murthy</span></h1>
 
@@ -71,12 +71,12 @@ Every project I create follows this framework:
 
 ---
 
-### 🧾 My Résumé
+### 🧾 My Resume
 
 <p align="center">
-  <strong>1️⃣ One-Page Résumé (Recruiter Friendly)</strong><br>
+  <strong>1️⃣ One-Page Resume (Recruiter Friendly)</strong><br>
   <a href="https://raw.githubusercontent.com/bhavana1251-arch/bhavana1251-arch/main/Bhavana_Venkatesha_Murthy_Resume_OnePage.pdf" target="_blank">
-    📎 View Résumé
+    📎 View Resume
   </a> |
   <a href="https://raw.githubusercontent.com/bhavana1251-arch/bhavana1251-arch/main/Bhavana_Venkatesha_Murthy_Resume_OnePage.pdf" download>
     ⬇️ Download PDF
@@ -84,9 +84,9 @@ Every project I create follows this framework:
 </p>
 
 <p align="center">
-  <strong>2️⃣ Detailed Résumé (Full Experience + Projects)</strong><br>
+  <strong>2️⃣ Detailed Resume (Full Experience + Projects)</strong><br>
   <a href="https://raw.githubusercontent.com/bhavana1251-arch/bhavana1251-arch/main/Bhavana_Venkatesha_Murthy_Resume_Detailed.pdf" target="_blank">
-    📎 View Résumé
+    📎 View Resume
   </a> |
   <a href="https://raw.githubusercontent.com/bhavana1251-arch/bhavana1251-arch/main/Bhavana_Venkatesha_Murthy_Resume_Detailed.pdf" download>
     ⬇️ Download PDF
@@ -114,4 +114,4 @@ Every project I create follows this framework:
 <p align="center">✨ Profile last updated: October 2025 ✨</p>
 
 <!-- 🌊 NAVY BLUE FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=70&width=100%&section=footer" style="width:100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=100&width=100%&section=footer" style="width:100%;" />
