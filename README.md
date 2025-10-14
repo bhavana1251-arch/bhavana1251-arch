@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=100&section=header"/>
+<!-- 🌊 NAVY BLUE HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=70&width=100%&section=header" style="width:100%;" />
 
 <h1 align="center">👋 Hi, I'm Bhavana Venkatesha Murthy</h1>
 
@@ -101,4 +102,5 @@ Every project I create follows this framework:
 
 <p align="center">✨ Profile last updated: October 2025 ✨</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=100&section=footer"/>
+<!-- 🌊 NAVY BLUE FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=70&width=100%&section=footer" style="width:100%;" />
