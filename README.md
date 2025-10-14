@@ -97,6 +97,7 @@ I’m excited to collaborate with dynamic teams that value **data, clarity, and 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A2540&height=3&section=footer"/>
 
+<p align="center">✨ Profile last updated: October 2025 ✨</p>
 
 <!--
 **bhavana1251-arch/bhavana1251-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
