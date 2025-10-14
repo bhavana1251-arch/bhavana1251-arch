@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=100&section=header" />
+
 <h1 align="center">👋 Hi, I'm Bhavana Venkatesha Murthy</h1>
 
 <p align="center">
