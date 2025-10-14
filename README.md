@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=100&section=header" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=180&section=header&width=100%" width="100%" />
+</p>
 <h1 align="center">👋 Hi, I'm Bhavana Venkatesha Murthy</h1>
 
 <p align="center">
@@ -111,3 +112,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=180&section=footer&width=100%" width="100%" />
+</p>
+
+
