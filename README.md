@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=180&section=header&width=100%" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=100&section=header"/>
+
 <h1 align="center">👋 Hi, I'm Bhavana Venkatesha Murthy</h1>
 
 <p align="center">
@@ -14,8 +13,6 @@
 </p>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A2540&height=3&section=header"/>
 
 ### 💡 About Me
 I’m an **aspiring Business Analyst** passionate about transforming raw data into actionable insights that drive smarter business strategies.  
@@ -73,9 +70,16 @@ Every project I create follows this framework:
 
 ---
 
-### 🚀 What’s Next  
-Currently seeking **Business Analyst / Data Analyst** opportunities where I can turn data into decisions.  
-I’m excited to collaborate with dynamic teams that value **data, clarity, and impact.**
+### 🧾 Download My Résumé
+
+<p align="center">
+  <a href="https://github.com/bhavana1251-arch/bhavana1251-arch/blob/main/Bhavana_Venkatesha_Murthy_Resume_OnePage.pdf" download>
+    <img src="https://img.shields.io/badge/Download-1--Page%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://github.com/bhavana1251-arch/bhavana1251-arch/blob/main/Bhavana_Venkatesha_Murthy_Resume_Detailed.pdf" download>
+    <img src="https://img.shields.io/badge/Download-Detailed%20Resume-F4B400?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
+  </a>
+</p>
 
 ---
 
@@ -95,26 +99,6 @@ I’m excited to collaborate with dynamic teams that value **data, clarity, and 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A2540&height=3&section=footer"/>
-
 <p align="center">✨ Profile last updated: October 2025 ✨</p>
 
-<!--
-**bhavana1251-arch/bhavana1251-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=180&section=footer&width=100%" width="100%" />
-</p>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=100&section=footer"/>
