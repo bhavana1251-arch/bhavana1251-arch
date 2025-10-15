@@ -22,6 +22,13 @@ A recent **MSc International Business graduate from Brunel University London**, 
 
 ---
 
+### 🎯 Career Interests
+
+I’m currently **open to opportunities** in **Business Analysis**, **Data Analytics**, or **Insights & Reporting** roles — with a focus on transforming data into strategic business outcomes.  
+Based in **Bangalore, India**, I’m open to **hybrid or on-site roles**, and I’m especially excited to contribute to **data-driven teams** that value analytical thinking, process improvement, and strategic decision-making.
+
+---
+
 ### 🧰 Technical Skills  
 
 <p align="center">
