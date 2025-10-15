@@ -44,7 +44,7 @@ Based in **Bangalore, India**, Iâ€™m open to **hybrid or on-site roles**, and Iâ
 - **Excel:** Advanced formulas, Power Query, What-If Analysis  
 - **Power BI:** DAX, Data Modeling, KPI Dashboards, Storytelling  
 - **SQL:** Joins, CTEs, Data Cleaning, Trend Analysis  
-- **AI Tools:** ChatGPT & Generative AI for insights and automation  
+- **AI Tools:** Generative AI for insights and automation  
 - **Business Research:** Market, financial, and strategic analysis  
 
 ---
