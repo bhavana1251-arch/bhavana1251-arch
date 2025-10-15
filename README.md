@@ -19,8 +19,7 @@
 I’m an **aspiring Business Analyst** passionate about transforming raw data into actionable insights that drive smarter business strategies.  
 With hands-on experience in **Excel, Power BI, and SQL**, I build dashboards, perform analyses, and craft clear data stories that empower decision-making.  
 
-Currently pursuing my **MSc in International Business at Brunel University London**,  
-I’m focused on mastering **data-driven storytelling and strategic insight generation** — essential skills for today’s analytical professionals.  
+A recent **MSc International Business graduate from Brunel University London**, I’m dedicated to leveraging data analytics and business intelligence to uncover opportunities, optimize processes, and support strategic growth. My focus lies in **data-driven storytelling and strategic insight generation** — key capabilities for driving measurable impact in today’s data-centric business environment.
 
 ---
 
