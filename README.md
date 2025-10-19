@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#0A2540;">Bhavana Venkatesha Murthy</span></h1>
 
 <p align="center">
-  <strong>Aspiring Business Analyst</strong> | Excel · Power BI · SQL | Turning Data into Strategy  
+  <strong>Aspiring Analyst</strong> | Excel · Power BI · SQL | Turning Data into Strategy  
 </p>
 
 <p align="center">
