@@ -16,7 +16,7 @@
 ---
 
 ### 💡 About Me
-I’m an **Enterprising Business Analyst** passionate about transforming raw data into actionable insights that drive smarter business strategies.  With hands-on experience in **Excel, Power BI, and SQL**, I build interactive dashboards, perform in-depth analyses, and craft clear data stories that empower decision-making and strategic growth.
+I’m an **Enterprising  Analyst** passionate about transforming raw data into actionable insights that drive smarter business strategies.  With hands-on experience in **Excel, Power BI, and SQL**, I build interactive dashboards, perform in-depth analyses, and craft clear data stories that empower decision-making and strategic growth.
 
 A recent **MSc International Business graduate from Brunel University London**, I’m dedicated to leveraging data analytics and business intelligence to uncover opportunities, optimize processes, and support strategic growth. My focus lies in **data-driven storytelling and strategic insight generation** — key capabilities for driving measurable impact in today’s data-centric business environment.
 
